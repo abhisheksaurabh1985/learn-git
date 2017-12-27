@@ -2,3 +2,4 @@ Step 1: Practice what you already know.
 Step 2: Made this change in remote.
 Step 3: See remark in Step 4. 
 Step 4: Step 3 and 4 written in remote. 
+Step 5: Added to see how the commit messages show up in local. 
